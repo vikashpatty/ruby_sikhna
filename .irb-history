@@ -1,0 +1,32 @@
+def hello
+out="Hello World"
+puts out
+end
+hello
+puts 1+2
+ruby add.rb
+ls
+puts 3
+puts 1.0 +2.0
+puts 2.0 * 3.0
+puts 5.0 -8.0
+puts 9.0/2.0
+puts 9/2
+9%2
+puts 5.0/2
+puts 5/2.0
+puts 5 * (12-8) + -15
+puts 98 +(59872/(13*8)) * -52
+'Hello'
+'    "
+'   '
+''
+puts 'Hello, World"
+puts ''
+puts 'good-bye'
+Hello,World
+exit
+puts 'hello,world'
+puts "hello,world"
+puts 10
+quit
