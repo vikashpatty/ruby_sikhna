@@ -30,3 +30,5 @@ puts 'hello,world'
 puts "hello,world"
 puts 10
 quit
+java = Java.new("Vikash")
+quit()
